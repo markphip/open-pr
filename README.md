@@ -10,4 +10,5 @@ open the CodeFlow application, if installed. Chose this approach over a generic 
 If other tools like VS Code add URI support for opening a PR we can update the Javascript to
 support more query params.
 
-
+------
+Credit to this repository: https://github.com/intradeus/http-protocol-redirector
